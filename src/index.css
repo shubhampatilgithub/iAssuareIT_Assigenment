@@ -1,0 +1,18 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.background-img{
+  background-image: url(../public/Images/Background.webp);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+
+
+}
+.location{
+height: 50px;
+width: 50px;
+border-radius: 5px;
+
+}
